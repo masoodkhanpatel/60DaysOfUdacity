@@ -79,7 +79,7 @@ ___
 
 *DAY 10* of #60daysofudacity :
 - Completed until lesson 9.4 _Encrypted Deep Learning_ :heavy_check_mark:
-- Working on miniproject to build an ecrpyted databse :heavy_check_mark:
+- Working on miniproject to build an encrypted database :heavy_check_mark:
 - Refactoring my behavioural cloning for self driving cars using deep learning project :heavy_check_mark:
 https://github.com/resilientmax/60DaysOfUdacity
 ___
