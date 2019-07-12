@@ -84,3 +84,9 @@ ___
 https://github.com/resilientmax/60DaysOfUdacity
 ___
 
+*DAY 11* of #60daysofudacity :
+- Completed the miniproject that is part of lesson 9 _Encrypted Deep Learning_, built an encrypted database based on tensor operations that has multiple ownership and management. :heavy_check_mark:
+https://github.com/resilientmax/60DaysOfUdacity
+- Completed the course tutorials and learning modules, will revise them again for further understanding. :heavy_check_mark:
+- Started working on encrypted deep learning on real world dataset and also brainstorming on the capstone project. :heavy_check_mark:
+
