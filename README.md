@@ -96,3 +96,10 @@ ___
 - Completed the mini project of lesson _Introducing Differential Privacy_ where we generate parallel databases. :heavy_check_mark:
 https://github.com/resilientmax/60DaysOfUdacity
 I encourage @Naushad and @Sarah Majors to share their progress of the day.
+___
+
+**DAY 13** of #60daysofudacity :
+- Completed the mini project of lesson _Evaluating the Privacy of a Function_ where we check the sensitivity of a database if any one record is removed from it. :heavy_check_mark:
+https://github.com/resilientmax/60DaysOfUdacity
+- Studied about l1-sensitivity from the book _Algorithmic Foundations of Differential Privacy_. :heavy_check_mark:
+___
