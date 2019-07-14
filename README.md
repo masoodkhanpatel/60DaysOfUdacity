@@ -89,6 +89,8 @@ ___
 https://github.com/resilientmax/60DaysOfUdacity
 - Completed the course tutorials and learning modules, will revise them again for further understanding. :heavy_check_mark:
 - Started working on encrypted deep learning on real world dataset and also brainstorming on the capstone project. :heavy_check_mark:
+
+![alt text](images/Wrapup.png)
 ___
 
 **DAY 12** of #60daysofudacity :
@@ -102,4 +104,6 @@ ___
 - Completed the mini project of lesson _Evaluating the Privacy of a Function_ where we check the sensitivity of a database if any one record is removed from it. :heavy_check_mark:
 https://github.com/resilientmax/60DaysOfUdacity
 - Studied about l1-sensitivity from the book _Algorithmic Foundations of Differential Privacy_. :heavy_check_mark:
+
+![alt text](images/l1.png)
 ___
