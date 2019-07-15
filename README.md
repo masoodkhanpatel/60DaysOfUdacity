@@ -107,3 +107,9 @@ https://github.com/resilientmax/60DaysOfUdacity
 
 ![alt text](images/l1.png)
 ___
+
+**DAY 14** of #60daysofudacity :
+- Completed the miniproject of the lesson 4.4 where we calculate the l1-sensitivity. :heavy_check_mark:
+https://github.com/resilientmax/60DaysOfUdacity
+- Learned more about `Differencing Attacks` from various sources. :heavy_check_mark:
+https://www.youtube.com/watch?v=4z715ZwtwbE
