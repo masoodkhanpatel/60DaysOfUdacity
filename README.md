@@ -123,4 +123,9 @@ ___
 
 **DAY 16** of #60daysofudacity :
 - Revised until Federated Learning. :heavy_check_mark:
+___
+
+**DAY 17** of #60daysofudacity:
+- Revising Deep learning fundamentals and knowledge for applying differential privacy techniques to deep learning. :heavy_check_mark:
+___
 
