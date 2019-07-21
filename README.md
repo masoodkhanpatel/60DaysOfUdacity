@@ -133,3 +133,8 @@ ___
 - I was traveling today hence I was only able to watch the interviews with distinguished engineers who are experts in federated learning.
 I thank @Berenice and @Frida for encouraging me everyday, it means a lot to me.
 ___
+
+**DAY 19** of #60daysofudacity:
+- Applied differential privacy to MNIST dataset. :heavy_check_mark:
+https://github.com/resilientmax/60DaysOfUdacity 
+
