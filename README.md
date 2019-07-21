@@ -129,3 +129,7 @@ ___
 - Revising Deep learning fundamentals and knowledge for applying differential privacy techniques to deep learning. :heavy_check_mark:
 ___
 
+**DAY 18** of #60daysofudacity:
+- I was traveling today hence I was only able to watch the interviews with distinguished engineers who are experts in federated learning.
+I thank @Berenice and @Frida for encouraging me everyday, it means a lot to me.
+___
