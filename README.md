@@ -113,3 +113,11 @@ ___
 https://github.com/resilientmax/60DaysOfUdacity
 - Learned more about `Differencing Attacks` from various sources. :heavy_check_mark:
 https://www.youtube.com/watch?v=4z715ZwtwbE
+___
+
+**DAY 15** of #60daysofudacity :
+- Watched this excellent video on differential privacy by Dr. Cynthia Dwork herself. :heavy_check_mark: 
+https://youtube.com/watch?v=lg-VhHlztqo
+- Working on my blockchain project where decentralization and privacy go hand in hand. I feel blockchain technology has so  much more in common with secure and privacy focused machine learning. :heavy_check_mark:
+___
+
