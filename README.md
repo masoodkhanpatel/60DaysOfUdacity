@@ -121,3 +121,6 @@ https://youtube.com/watch?v=lg-VhHlztqo
 - Working on my blockchain project where decentralization and privacy go hand in hand. I feel blockchain technology has so  much more in common with secure and privacy focused machine learning. :heavy_check_mark:
 ___
 
+**DAY 16** of #60daysofudacity :
+- Revised until Federated Learning. :heavy_check_mark:
+
