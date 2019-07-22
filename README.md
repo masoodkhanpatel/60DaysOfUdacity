@@ -137,4 +137,9 @@ ___
 **DAY 19** of #60daysofudacity:
 - Applied differential privacy to MNIST dataset. :heavy_check_mark:
 https://github.com/resilientmax/60DaysOfUdacity 
+___
 
+**DAY 20** of #60daysofudacity :
+- Appplied federated learning on MNIST dataset. :heavy_check_mark:
+https://github.com/resilientmax/60DaysOfUdacity 
+___
