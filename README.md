@@ -143,3 +143,7 @@ ___
 - Appplied federated learning on MNIST dataset. :heavy_check_mark:
 https://github.com/resilientmax/60DaysOfUdacity 
 ___
+
+**DAY 21** of #60daysofudacity :
+- Applied federated learning on recurrent neural network. :heavy_check_mark:
+https://github.com/resilientmax/60DaysOfUdacity  
