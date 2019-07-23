@@ -147,3 +147,9 @@ ___
 **DAY 21** of #60daysofudacity :
 - Applied federated learning on recurrent neural network. :heavy_check_mark:
 https://github.com/resilientmax/60DaysOfUdacity  
+___
+
+**DAY 22** of #60daysofudacity :
+- Used PyTorch to train a Deep Q Learning (DQN) agent on the CartPole task from the OpenAI gym. :heavy_check_mark:
+https://github.com/resilientmax/60DaysOfUdacity
+___
