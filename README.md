@@ -155,3 +155,8 @@ https://github.com/resilientmax/60DaysOfUdacity
 
 ![alt text](images/Workspace1.png)
 ___
+
+**DAY 23** of #60daysofudacity :
+- Learning more about deep reinforcement learning and its implementations. :heavy_check_mark:
+- Preparing for AWS Deepracer challenge. :heavy_check_mark:
+https://github.com/resilientmax/60DaysOfUdacity
