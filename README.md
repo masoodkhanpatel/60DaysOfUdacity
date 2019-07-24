@@ -152,4 +152,6 @@ ___
 **DAY 22** of #60daysofudacity :
 - Used PyTorch to train a Deep Q Learning (DQN) agent on the CartPole task from the OpenAI gym. :heavy_check_mark:
 https://github.com/resilientmax/60DaysOfUdacity
+
+![alt text](images/Workspace1.png)
 ___
