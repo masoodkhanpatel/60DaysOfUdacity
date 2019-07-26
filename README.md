@@ -160,3 +160,9 @@ ___
 - Learning more about deep reinforcement learning and its implementations. :heavy_check_mark:
 - Preparing for AWS Deepracer challenge. :heavy_check_mark:
 https://github.com/resilientmax/60DaysOfUdacity
+___
+
+**DAY 24** of #60daysofudacity :
+- Watched the lecture and learned a lot about Deep RL
+https://youtube.com/watch?v=zR11FLZ-O9M
+___
