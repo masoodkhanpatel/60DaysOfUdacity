@@ -166,3 +166,8 @@ ___
 - Watched the lecture and learned a lot about Deep RL
 https://youtube.com/watch?v=zR11FLZ-O9M
 ___
+
+**DAY 25** OF #60daysofudacity :
+- Worked on the keystone project, still lot of work left
+https://github.com/resilientmax/60DaysOfUdacity
+___
