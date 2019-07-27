@@ -171,3 +171,8 @@ ___
 - Worked on the keystone project, still lot of work left
 https://github.com/resilientmax/60DaysOfUdacity
 ___
+
+**DAY 26** of #60daysofudacity :
+- Refactored and uploaded my 2D particle filter project for self driving cars on to github.
+https://github.com/resilientmax/Kidnapped-Vehicle-Project
+__
