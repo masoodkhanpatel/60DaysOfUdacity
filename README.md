@@ -175,4 +175,8 @@ ___
 **DAY 26** of #60daysofudacity :
 - Refactored and uploaded my 2D particle filter project for self driving cars on to github.
 https://github.com/resilientmax/Kidnapped-Vehicle-Project
-__
+___
+
+**DAY 27** of #60daysofudacity :
+- Programmed a path planner for self driving cars, that uses A* algorithm.
+___
