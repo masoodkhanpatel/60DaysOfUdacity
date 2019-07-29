@@ -180,3 +180,7 @@ ___
 **DAY 27** of #60daysofudacity :
 - Programmed a path planner for self driving cars, that uses A* algorithm.
 ___
+
+**DAY 28** of #60daysofudacity :
+- Working on the keystone project, using at least 2 techniques taught in the course.
+___
