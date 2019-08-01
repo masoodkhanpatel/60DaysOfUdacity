@@ -195,3 +195,7 @@ ___
 - Read from Computer Vision: A Modern Approach
 ___
 
+**DAY** 31 of #60daysofudacity :
+- Studied about policy based methods in Deep RL.
+- Following the lecture... https://www.youtube.com/watch?v=lvoHnicueoE
+___
