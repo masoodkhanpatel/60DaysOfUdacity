@@ -184,3 +184,14 @@ ___
 **DAY 28** of #60daysofudacity :
 - Working on the keystone project, using at least 2 techniques taught in the course.
 ___
+
+**DAY 29** of #60daysofudacity :
+- Learned more about Deep Q Learning
+- Checked out Unity-Machine Learning agents
+___
+
+**DAY 30** of #60daysofudacity :
+- Started the Intro to Machine Learning course on Udacity for revision of basic ML.
+- Read from Computer Vision: A Modern Approach
+___
+
