@@ -163,39 +163,46 @@ https://github.com/resilientmax/60DaysOfUdacity
 ___
 
 **DAY 24** of #60daysofudacity :
-- Watched the lecture and learned a lot about Deep RL
+- Watched the lecture and learned a lot about Deep RL :heavy_check_mark:
 https://youtube.com/watch?v=zR11FLZ-O9M
 ___
 
 **DAY 25** OF #60daysofudacity :
-- Worked on the keystone project, still lot of work left
+- Worked on the keystone project, still lot of work left :heavy_check_mark:
 https://github.com/resilientmax/60DaysOfUdacity
 ___
 
 **DAY 26** of #60daysofudacity :
-- Refactored and uploaded my 2D particle filter project for self driving cars on to github.
+- Refactored and uploaded my 2D particle filter project for self driving cars on to github. :heavy_check_mark:
 https://github.com/resilientmax/Kidnapped-Vehicle-Project
 ___
 
 **DAY 27** of #60daysofudacity :
-- Programmed a path planner for self driving cars, that uses A* algorithm.
+- Programmed a path planner for self driving cars, that uses A* algorithm. :heavy_check_mark:
 ___
 
 **DAY 28** of #60daysofudacity :
-- Working on the keystone project, using at least 2 techniques taught in the course.
+- Working on the keystone project, using at least 2 techniques taught in the course. :heavy_check_mark:
 ___
 
 **DAY 29** of #60daysofudacity :
-- Learned more about Deep Q Learning
-- Checked out Unity-Machine Learning agents
+- Learned more about Deep Q Learning :heavy_check_mark:
+- Checked out Unity-Machine Learning agents :heavy_check_mark:
 ___
 
 **DAY 30** of #60daysofudacity :
-- Started the Intro to Machine Learning course on Udacity for revision of basic ML.
-- Read from Computer Vision: A Modern Approach
+- Started the Intro to Machine Learning course on Udacity for revision of basic ML. :heavy_check_mark:
+- Read from Computer Vision: A Modern Approach :heavy_check_mark:
 ___
 
-**DAY** 31 of #60daysofudacity :
-- Studied about policy based methods in Deep RL.
+**DAY 31** of #60daysofudacity :
+- Studied about policy based methods in Deep RL. :heavy_check_mark:
 - Following the lecture... https://www.youtube.com/watch?v=lvoHnicueoE
+___
+
+**DAY 32** of #60daysofudacity :
+- Started reading Grokking Deep RL book :heavy_check_mark:
+- Trained and evaluated a model for AWS DeepRacer :heavy_check_mark:
+- Finished 5 lessons of DRLND :heavy_check_mark:
+https://github.com/resilientmax/60DaysOfUdacity
 ___
