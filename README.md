@@ -117,7 +117,7 @@ ___
 
 **DAY 15** of #60daysofudacity :
 - Watched this excellent video on differential privacy by Dr. Cynthia Dwork herself. :heavy_check_mark: 
-https://youtube.com/watch?v=lg-VhHlztqo
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/lg-VhHlztqo/0.jpg)](http://www.youtube.com/watch?lg-VhHlztqo "The Definition of Differential Privacy - Cynthia Dwork")
 - Working on my blockchain project where decentralization and privacy go hand in hand. I feel blockchain technology has so  much more in common with secure and privacy focused machine learning. :heavy_check_mark:
 ___
 
@@ -164,7 +164,7 @@ ___
 
 **DAY 24** of #60daysofudacity :
 - Watched the lecture and learned a lot about Deep RL :heavy_check_mark:
-https://youtube.com/watch?v=zR11FLZ-O9M
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/zR11FLZ-O9M/0.jpg)](https://www.youtube.com/watch?v=zR11FLZ-O9M "Introduction to Deep Reinforcement Learning (Deep RL)")
 ___
 
 **DAY 25** OF #60daysofudacity :
@@ -197,7 +197,9 @@ ___
 
 **DAY 31** of #60daysofudacity :
 - Studied about policy based methods in Deep RL. :heavy_check_mark:
-- Following the lecture... https://www.youtube.com/watch?v=lvoHnicueoE
+- Following the lecture... 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lvoHnicueoE/0.jpg)](https://www.youtube.com/watch?v=lvoHnicueoE "Deep Reinforcement Learning")
+
 ___
 
 **DAY 32** of #60daysofudacity :
