@@ -198,6 +198,7 @@ ___
 **DAY 31** of #60daysofudacity :
 - Studied about policy based methods in Deep RL. :heavy_check_mark:
 - Following the lecture... 
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lvoHnicueoE/0.jpg)](https://www.youtube.com/watch?v=lvoHnicueoE "Deep Reinforcement Learning")
 
 ___
