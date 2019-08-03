@@ -112,7 +112,7 @@ ___
 - Completed the miniproject of the lesson 4.4 where we calculate the l1-sensitivity. :heavy_check_mark:
 https://github.com/resilientmax/60DaysOfUdacity
 - Learned more about `Differencing Attacks` from various sources. :heavy_check_mark:
-https://www.youtube.com/watch?v=4z715ZwtwbE
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/4z715ZwtwbE/0.jpg)](http://www.youtube.com/watch?v=4z715ZwtwbE "Differencing Attacks")
 ___
 
 **DAY 15** of #60daysofudacity :
@@ -204,5 +204,12 @@ ___
 - Started reading Grokking Deep RL book :heavy_check_mark:
 - Trained and evaluated a model for AWS DeepRacer :heavy_check_mark:
 - Finished 5 lessons of DRLND :heavy_check_mark:
+https://github.com/resilientmax/60DaysOfUdacity
+___
+
+**DAY 33** of #60daysofudacity :
+- Revised Markov Decision Process and state machines. :heavy_check_mark:
+- Wrote ROS node and related services to interact with a deep neural network. :heavy_check_mark:
+- Checking ways to train AWS DeepRacer model on local machine.
 https://github.com/resilientmax/60DaysOfUdacity
 ___
