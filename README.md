@@ -216,3 +216,8 @@ ___
 - Checking ways to train AWS DeepRacer model on local machine.
 https://github.com/resilientmax/60DaysOfUdacity
 ___
+
+**DAY 34** of #60daysofudacity :
+- Finished Lesson 6 of DRLND :heavy_check_mark:
+- Implemented a Monte Carlo control for reinforcement learning :heavy_check_mark:
+___
