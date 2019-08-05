@@ -221,3 +221,8 @@ ___
 - Finished Lesson 6 of DRLND :heavy_check_mark:
 - Implemented a Monte Carlo control for reinforcement learning :heavy_check_mark:
 ___
+
+**DAY 35** of #60daysofudacity :
+- Finished lesson 7 of DRLND :heavy_check_mark:
+- Read until chapter 3 of the Reinforcement learning book by Richard Sutton and Andrew Barto :heavy_check_mark:
+___
